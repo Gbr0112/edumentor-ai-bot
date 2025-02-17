@@ -16,8 +16,8 @@ export const Hero = () => {
             Sua professora virtual
           </span>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mt-4">
-            Aprenda com a{" "}
-            <span className="text-primary">Professora Virtual</span>
+            Bem-vindo ao{" "}
+            <span className="text-primary">Edumentor AI</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground mt-4 max-w-2xl mx-auto">
             Descubra uma nova forma de aprender com nossa professora virtual alimentada por inteligência artificial.
