@@ -1,5 +1,5 @@
 
-import { GraduationCap, Robot, Book } from "lucide-react";
+import { GraduationCap, Bot, Book } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 export const Hero = () => {
@@ -9,7 +9,7 @@ export const Hero = () => {
         <div className="fade-in space-y-2">
           <div className="flex justify-center mb-6">
             <div className="hero-animation">
-              <Robot size={80} className="text-primary" />
+              <Bot size={80} className="text-primary" />
             </div>
           </div>
           <span className="px-3 py-1 text-sm font-medium rounded-full bg-accent text-accent-foreground">
@@ -54,7 +54,7 @@ export const Hero = () => {
 
 const features = [
   {
-    icon: Robot,
+    icon: Bot,
     title: "Aprendizado Personalizado",
     description: "Adaptamos o conteúdo ao seu ritmo e estilo de aprendizagem."
   },
