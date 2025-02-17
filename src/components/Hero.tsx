@@ -1,10 +1,9 @@
-
 import { GraduationCap, Bot, Book } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 export const Hero = () => {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center px-4 py-12">
+    <div className="min-h-screen flex flex-col items-center justify-center px-4 py-12 pt-24">
       <div className="text-center space-y-8 max-w-4xl mx-auto">
         <div className="fade-in space-y-2">
           <div className="flex justify-center mb-6">
